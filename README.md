@@ -1,4 +1,4 @@
-https://github.com/vbawol/DayZ-Epoch**DayZ Absence**
+**DayZ Absence**
 ================
 
 Experimental DayZ mod 
