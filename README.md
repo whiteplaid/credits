@@ -15,7 +15,7 @@ http://epochmod.com
 Included Custom Addons
 --------------------------
 * Advanced Combat Enviroment http://wiki.ace-mod.net/Introduction
-* Jarhead's Sound Redeployment Studios http://forums.bistudio.com/showthread.php?104514-J-S-R-S-1-5
+* J.S.R.S. Mod http://forums.bistudio.com/showthread.php?104514-J-S-R-S-1-5
 * A-C-R-E-Advanced-Combat-Radio-Environment http://forums.bistudio.com/showthread.php?133891-A-C-R-E-Advanced-Combat-Radio-Environment-1-4-Stable-Release-Thread
 * RobertHammer's  weapon packs http://forums.bistudio.com/showthread.php?112491-RH-MGS-wp-Pack-for-OA-CO
 * Random Military Bases and buildings script by www.survivaloperations.net
