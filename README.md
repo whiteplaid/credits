@@ -22,6 +22,9 @@ Included Custom Addons
 * Warcontext Engine by Code 34 http://forums.bistudio.com/showthread.php?98553-Warcontext-engine-and-official-missions
 * Group Link 4 http://forums.bistudio.com/showthread.php?92269-Group-Link-4-Special-FX-Edition
 * UPSMON http://forums.bistudio.com/showthread.php?91696-UPSMON-Urban-Patrol-Script-Mon
+* RKSL Foxhound http://forums.bistudio.com/showthread.php?158051-RKSL-Foxhound-LPPV-0-5-BETA
+* Namalsk Mutants/Modules http://www.nightstalkers.cz/en_index_nc.php?menu=en_nc_down
+* ShackTac Littlebird Enhancement Mod http://www.armaholic.com/page.php?id=16497
 * AutoGyro - by CSJ http://www.armaholic.com/page.php?id=2359
 * Taxi by [GLT]Myke http://www.armaholic.com/page.php?id=12289
 * Blackhawk and Seahawk Wrecks by [GLT]Myke http://www.armaholic.com/page.php?id=10670
