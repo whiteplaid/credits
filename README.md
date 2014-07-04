@@ -21,6 +21,7 @@ Included Custom Addons
 * Random Military Bases and buildings script by www.survivaloperations.net
 * Warcontext Engine by Code 34 http://forums.bistudio.com/showthread.php?98553-Warcontext-engine-and-official-missions
 * Group Link 4 http://forums.bistudio.com/showthread.php?92269-Group-Link-4-Special-FX-Edition
+* UPSMON http://forums.bistudio.com/showthread.php?91696-UPSMON-Urban-Patrol-Script-Mon
 * AutoGyro - by CSJ http://www.armaholic.com/page.php?id=2359
 * Taxi by [GLT]Myke http://www.armaholic.com/page.php?id=12289
 * Blackhawk and Seahawk Wrecks by [GLT]Myke http://www.armaholic.com/page.php?id=10670
