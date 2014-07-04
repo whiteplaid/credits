@@ -1,4 +1,4 @@
-**DayZ Absence**
+https://github.com/vbawol/DayZ-Epoch**DayZ Absence**
 ================
 
 Experimental DayZ mod 
@@ -61,7 +61,7 @@ Special thanks
 * BIS for a incredible and versatile game and engine. http://www.bistudio.com/
 * Rocket - DAYZ! http://dayzmod.com | http://dayzgame.com 
 * DayZ Community Developers - https://github.com/DayZMod
-* Dayz Epoch Developers - https://vbawol/DayZ-Epoch
+* Dayz Epoch Developers - https://github.com/vbawol/DayZ-Epoch
 * Code 34 for his WARCONTEXT Engine
 * ziellos2k - Tag Friendly code. https://github.com/ziellos2k
 * Dayz Hive DLL - https://github.com/rajkosto/hive
