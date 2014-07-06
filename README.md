@@ -68,9 +68,4 @@ Special thanks
 * Code 34 for his WARCONTEXT Engine
 * ziellos2k - Tag Friendly code. https://github.com/ziellos2k
 * Dayz Hive DLL - https://github.com/rajkosto/hive
-* Munchiefest - Beta Tester, Wiki Editor, Ideas - http://www.twitch.tv/munchiefest
-* Chelsey - Beta Tester, New female textures.
-* OrangeSherbet - Beta Tester - http://www.twitch.tv/orangesherbet
-* QMGSaint - Beta Tester - http://www.twitch.tv/qmgsaint
-* Twitch.tv Streamers - http://www.twitch.tv/directory/game/DayZ
-* Thanks to all the other beta testers, you know who you are!
+
