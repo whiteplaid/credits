@@ -39,6 +39,8 @@ Included Custom Addons
 * Bell 47/H-13 Helicopter by hcpookie - http://www.armaholic.com/page.php?id=22143
 * USEC CH53 by Rocket - http://dayz.com
 * More enterable buildings - Dayzero - https://zombies.nu/
+* FHQ Remington Weapons Pack - http://www.armaholic.com/page.php?id=17971
+* FHQ Remington ACE Robalo's configs - https://dev.withsix.com/projects/asracecfg
 
 --------------------------
 Included Custom Islands
